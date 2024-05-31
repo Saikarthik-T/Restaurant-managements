@@ -1,5 +1,3 @@
-![image](https://github.com/Saikarthik-T/Restaurant-managements/assets/167961720/b09613f5-218f-4928-8a1a-8e45c1bacea2)# Restaurant-managements
-
 Restaurant Management System
 
 This Python script implements a simple Restaurant Management System using Tkinter for the graphical user interface and MySQL Connector for database interaction. The system allows users to input customer details and order information, calculate the total cost of the order, reset input fields, exit the application, and save orders to a MySQL database.
@@ -27,6 +25,7 @@ Press the "Reset" button to clear the feilds and enter new values.
 Press the "Exit" button to exit from the GUI.
 
 Press the "Save" button to store and save the data in a MYSQL database.
+
 ![Screenshot 2024-05-31 153800](https://github.com/Saikarthik-T/Restaurant-managements/assets/167961720/95938dd4-8ac0-4a14-bff9-35f9914ffcae)
 
 
