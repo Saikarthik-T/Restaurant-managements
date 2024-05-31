@@ -1,4 +1,4 @@
-# Restaurant-managements
+![image](https://github.com/Saikarthik-T/Restaurant-managements/assets/167961720/b09613f5-218f-4928-8a1a-8e45c1bacea2)# Restaurant-managements
 
 Restaurant Management System
 
@@ -27,3 +27,6 @@ Press the "Reset" button to clear the feilds and enter new values.
 Press the "Exit" button to exit from the GUI.
 
 Press the "Save" button to store and save the data in a MYSQL database.
+![Screenshot 2024-05-31 153800](https://github.com/Saikarthik-T/Restaurant-managements/assets/167961720/95938dd4-8ac0-4a14-bff9-35f9914ffcae)
+
+
